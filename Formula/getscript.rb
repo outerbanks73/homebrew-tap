@@ -3,8 +3,8 @@ class Getscript < Formula
 
   desc "Fast, Unix-friendly CLI for fetching transcripts from YouTube and Apple Podcasts"
   homepage "https://github.com/outerbanks73/cli-tools"
-  url "https://files.pythonhosted.org/packages/source/g/getscript/getscript-0.12.0.tar.gz"
-  sha256 "6a69c7566bc00742c548e0d584c58399b8981214f9f10ba304f3a11ac34e9b37"
+  url "https://files.pythonhosted.org/packages/source/g/getscript/getscript-0.14.0.tar.gz"
+  sha256 "5e19438e632d843e2bcce0ff03aff7c5ae842bd570fb22b96e4c9d8d404f59eb"
   license "MIT"
 
   depends_on "python@3.12"
